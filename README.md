@@ -66,4 +66,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I love watching Basketball and Soccer
+This project is inspired by Julia Undeutch <https://github.com/YuriDevAT>
 -->
