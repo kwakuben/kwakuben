@@ -24,9 +24,34 @@ Timezone: Accra/Ghana (GMT+0)
 💬 Ask me about anything related to... Basketball or my inspiration for my projects <br />
 ⚡ Fun fact: ... I love watching Baseketball and Soccer games. I literally watch game highlights daily...😄<br />
 
+<p>
+<h3 align="center"> Languages and Tools</h3>
+</p>
+<br />
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
+<!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
+<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />  
+<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
+   </p>
+<br />
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect on a project, task or anything tech</b> </b> 😊</em>
+</p>
 
+---
 
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kwakuben&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakuben&layout=compact&theme=radical" width="400" />
+</p>
 
+---
 
 <!--
 **kwakuben/kwakuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
