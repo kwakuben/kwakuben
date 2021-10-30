@@ -10,6 +10,12 @@
 <p>A Technology Enthusiast, Data Scientist and aspiring Software Engineer with practical experience in Web Scraping & Data Wrangling (R & Python & SAS) and over 4 years of Data Analysis with Excel. On track to mastering core JAVA and Python, in addition to GCP (Google Cloud Platform) technologies. Currently preparing for certifications as a GCP Cloud Engineer | Architect. I teach Mathematics and Computer Science to middle and high schoolers </p>
 <br />
 
+<h2 align="center">My Favorite Projects 💻</h2>
+<p align="center">
+Coming Soon....😄
+</p>
+<br />
+
 <h2 align="center">About me 😇</h2>
 <p align="center">
 Timezone: Accra/Ghana (GMT+0)
