@@ -23,7 +23,7 @@ Timezone: Accra/Ghana (GMT+0)
 <br />
 <p>In my latest project, I was able to scrape data off a dynamic website using R. When I met an RSelenium exception handling roadblock, I worked around it with simple conditional statements while researching RSelenium exception handling topics</p>
 
-:muscle: I’m currently working on some Web Scraping projects.<br />
+:muscle: I’m currently working on some Web Scraping projects and my first data science article.<br />
 :eyes: I’m currently learning JAVA 11, GCP (Google Cloud Platform) technologies, Full Stack Web Development <br />
 :raising_hand: I’m looking to collaborate on Data Science projects<br />
 :dizzy_face: I’m looking for help with RSelenium exception handling<br />
