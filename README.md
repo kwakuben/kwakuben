@@ -7,7 +7,7 @@
 <a href="https://twitter.com/kkbenjy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 <br />
-<p>A Technology Enthusiast, Data Scientist and aspiring Software Engineer with practical experience in Web Scraping & Data Wrangling (R & Python & SAS) and over 4 years of Data Analysis with Excel. On track to mastering core JAVA, Python, and JavaScript in addition to GCP (Google Cloud Platform) technologies. Currently preparing for certifications as a GCP Cloud Engineer | Architect. I teach Mathematics and Computer Science to middle and high schoolers </p>
+<p>A Technology Enthusiast, Software Engineer, Data Scientist and Associate Cloud Engineer with practical experience in Web Design and Development, Web Scraping & Data Wrangling (R & Python & SAS) and Data Analysis. Seeking to build robust web applications with JavaScript, React, Node.js, Angular etc. </p>
 <br />
 
 <h2 align="center">My Favorite Projects 💻</h2>
